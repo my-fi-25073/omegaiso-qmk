@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [my-fi](https://github.com/my-fi)
+* Keyboard Maintainer: [my-fi](https://github.com/my-fi-25073)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 

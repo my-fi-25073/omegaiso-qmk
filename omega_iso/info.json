@@ -1,6 +1,6 @@
 {
     "manufacturer": "my-fi",
-    "keyboard_name": "omega_iso",
+    "keyboard_name": "Omega ISO",
     "maintainer": "my-fi",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
@@ -20,7 +20,7 @@
         "rows": ["GP0", "GP7", "GP6", "GP5", "GP4", "GP3", "GP16", "GP15", "GP14", "GP12", "GP9", "GP8"]
     },
     "processor": "RP2040",
-    "url": "",
+    "url": "https://github.com/my-fi-25073",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x4F49",
